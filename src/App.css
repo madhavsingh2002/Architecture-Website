@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+.logo {
+  background: url(/public/images/Architecture.png);
+  position: absolute;
+  width: 168px;
+  height: 29px;
+  left: 96px;
+  top: 48px;
+  background-repeat: no-repeat;
+}
+nav ul li {
+  color: #faf9f6;
+}
+li {
+  display: inline;
+  margin-left: 34px;
+}
+ul {
+  position: absolute;
+  width: 468px;
+  height: 26px;
+  right: 96px;
+  top: 50px;
+}
+.banner {
+  display: flex;
+  background: url(/public/images/image\ 2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid white;
+  min-width: 100vw;
+  min-height: 100vh;
+  color: #faf9f6;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.banner h1 {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 84px;
+  line-height: 120%;
+  /* or 101px */
+  width: 935px;
+  height: 202px;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 24px;
+}
+.banner p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 120%;
+  /* or 34px */
+
+  text-align: center;
+
+  /* regular */
+
+  color: #e4baa1;
+  margin-bottom: 24px;
+}
+a {
+  text-decoration: none;
+}
+.banner h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 120%;
+  /* or 26px */
+
+  text-align: center;
+  color: white;
+}
+.line {
+  width: 128px;
+  height: 0px;
+
+  /* base */
+
+  border: 2px solid #faf9f6;
+}
+.scroll {
+  background: url(/public/images/Vector.png);
+  position: absolute;
+  left: 47.89%;
+  right: 47.81%;
+  top: 88.22%;
+  bottom: 3.77%;
+  background-repeat: no-repeat;
+}
