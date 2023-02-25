@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Architecture-Website/static/css/main.2f4583d3.css",
+    "main.js": "/Architecture-Website/static/js/main.bf0bb6e1.js",
+    "static/media/image 2.png": "/Architecture-Website/static/media/image 2.d1bdcb4c54780645d2fa.png",
+    "index.html": "/Architecture-Website/index.html",
+    "main.2f4583d3.css.map": "/Architecture-Website/static/css/main.2f4583d3.css.map",
+    "main.bf0bb6e1.js.map": "/Architecture-Website/static/js/main.bf0bb6e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4583d3.css",
+    "static/js/main.bf0bb6e1.js"
+  ]
+}
